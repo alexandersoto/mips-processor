@@ -1,4 +1,4 @@
-5 stage MIPS Processor
+5 Stage MIPS Processor
 ===========
 
 Detailed description at http://alexander.soto.io/mips-processor
