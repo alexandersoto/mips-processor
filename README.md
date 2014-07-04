@@ -1,7 +1,7 @@
 5 Stage MIPS Processor
 ===========
 
-Detailed description at http://alexander.soto.io/mips-processor
+MIPS processor written in Verilog. A detailed description can be found at http://alexander.soto.io/mips-processor.
 
 Files in 447rtl were written for CMU's Computer Architecture Class (18-447). Files in rtl are the core Verilog files. Files in sw are software test files, along with a small kernel and TLB miss handler.
 
